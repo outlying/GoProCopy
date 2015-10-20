@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
                             new File( dir, "DCIM" ),
                             getExternalFilesDir( Environment.DIRECTORY_MOVIES ) );
                 } catch ( IOException e ) {
-                    System.out.println( "XDXDXD" + e );
+                    System.out.println( "XDXDXDX" + e );
                     e.printStackTrace();
                 }
             }
