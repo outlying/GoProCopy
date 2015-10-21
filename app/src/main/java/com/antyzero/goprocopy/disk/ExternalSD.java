@@ -1,4 +1,4 @@
-package com.antyzero.goprocopy;
+package com.antyzero.goprocopy.disk;
 
 import android.content.Context;
 import android.support.annotation.StringRes;
